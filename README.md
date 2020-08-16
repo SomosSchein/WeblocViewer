@@ -7,6 +7,8 @@ Project was born when I migrated from macOS to Windows and found out that couldn
 
 WeblocViewer is built using [.NET Core 3.1](https://dotnet.microsoft.com/download) so you just need to Compile, set the .exe as default app for file type and you're ready to go.
 
+**You can also grab the latest release, unzip on the directory of your preference and set as the default app for the `.webloc` file type.**
+
 ## License
 
 This code is distributed under the Apache License 2.0 license found in the [LICENSE](/LICENSE) file.
