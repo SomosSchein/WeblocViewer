@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>webloc.ico</ApplicationIcon>
+    <AssemblyName>Webloc Viewer</AssemblyName>
+    <RootNamespace>Schein.OpenSource.WeblocViewer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Test\test_file.webloc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
