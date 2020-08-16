@@ -5,4 +5,8 @@ Project was born when I migrated from macOS to Windows and found out that couldn
 
 ## Usage
 
-WeblocViewer is built using [.NET Core 3.1]("https://dotnet.microsoft.com/download") so you just need to Compile, set the .exe as default app for file type and you're ready to go.
+WeblocViewer is built using [.NET Core 3.1](https://dotnet.microsoft.com/download) so you just need to Compile, set the .exe as default app for file type and you're ready to go.
+
+## License
+
+This code is distributed under the Apache License 2.0 license found in the [LICENSE](/LICENSE) file.
